@@ -1,0 +1,16 @@
+{
+  "name": "quasar-unlock",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node ."
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5"
+  },
+  "dependencies": {
+    "@hono/node-server": "^2.1.5",
+    "hono": "^4.13.13",
+    "hono-rate-limiter": "^0.5.4"
+  }
+}

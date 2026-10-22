@@ -1,0 +1,145 @@
+{
+  "cucumber": {
+    "hasUpdate": true,
+    "version": "0.369.1.46.4778262955.20261013.160",
+    "downloadUrl": "https://cdnriqbxswemmatxzibl.svc.cdn.yandex.net/cucumber/ota/user/8e1e25f9-1ff0-45cc-b30f-f920200539a5/0.369.1.46.4778262955.20261013.160.zip",
+    "crc32": 3103154577,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/cucumber/ota/user/8e1e25f9-1ff0-45cc-b30f-f920200539a5/0.369.1.46.4778262955.20261013.160.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "150426"
+  },
+  "elari_a98": {
+    "hasUpdate": true,
+    "version": "1.3.0.21.636997245.20200324",
+    "downloadUrl": "https://quasar.s3.yandex.net/elari_a98/ota/release/a4a8eb10-7f7a-443c-b89e-38544612f213/quasar-1.3.0.21.636997245.20200324.zip",
+    "crc32": 2493125920,
+    "critical": true,
+    "updateScript": "chmod +x /system/vendor/quasar/a01localupdate",
+    "updateScriptSign": "kwNmOnt+Ir6MBll1b63PYT+EfZmFJV5+HkWNmXV1s6515EfTZPckgbvNwU2/5V//fwvYZucQ9E/esagsye/VYBARMHXB0Gfqtxnpx+VHDoa73wuUVq6/VwiTIDSKpzcPCaMX2uibj88fRgG9LZ8aAcgojv1I+118AJ7F47GyKIhWEKpm6JCbM9SIRT8/72QwJvmMXvczWx7X8WgixYwlOiynhAMkZJ2NWeJ2hdAquME+mRnVtg3IRfzBwNIzyZrvfIkUCVwBoIntFtSkeI4Q8yNbzQll83ZgFMG34PwXVakaaLMxruKxzdbWKD5AkjqpN2ZhvR7lepd5o+KiOlFyhA==",
+    "updateScriptTimestamp": 1579799395,
+    "fallbackUrl": "https://quasar.s3.yandex.net/elari_a98/ota/release/a4a8eb10-7f7a-443c-b89e-38544612f213/quasar-1.3.0.21.636997245.20200324.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "3453"
+  },
+  "jbl_link_music": {
+    "hasUpdate": true,
+    "version": "1.80.0.228.3676124705.20251219.",
+    "downloadUrl": "https://quasar.s3.yandex.net/jbl_link_music/ota/release/1479bda3-0711-4d3f-bd1c-b5016581411d/1.80.0.228.3676124705.20251219..zip",
+    "crc32": 1888902697,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/jbl_link_music/ota/release/1479bda3-0711-4d3f-bd1c-b5016581411d/1.80.0.228.3676124705.20251219..zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "96042"
+  },
+  "jbl_link_portable": {
+    "hasUpdate": true,
+    "version": "1.80.0.228.3676569159.20251219.",
+    "downloadUrl": "https://quasar.s3.yandex.net/jbl_link_portable/ota/release/c92400c6-7773-4ff7-b517-f6781c13455f/1.80.0.228.3676569159.20251219..zip",
+    "crc32": 2142778504,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/jbl_link_portable/ota/release/c92400c6-7773-4ff7-b517-f6781c13455f/1.80.0.228.3676569159.20251219..zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "96196"
+  },
+  "lightcomm": {
+    "hasUpdate": true,
+    "version": "1.3.0.21.674396827.20200513",
+    "downloadUrl": "https://quasar.s3.yandex.net/lightcomm/ota/user/59d65102-a7ac-4d23-96c6-99e3ed9a451a/quasar-1.3.0.21.674396827.20200513.zip",
+    "crc32": 1152133629,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/lightcomm/ota/user/59d65102-a7ac-4d23-96c6-99e3ed9a451a/quasar-1.3.0.21.674396827.20200513.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "4537"
+  },
+  "linkplay_a98": {
+    "hasUpdate": true,
+    "version": "1.51.0.31.909833124.20210302",
+    "downloadUrl": "https://quasar.s3.yandex.net/linkplay_a98/ota/release/fc1f06d4-7f52-4d36-b841-cf75c84ff4b0/quasar-1.51.0.31.909833124.20210302.zip",
+    "crc32": 472209841,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/linkplay_a98/ota/release/fc1f06d4-7f52-4d36-b841-cf75c84ff4b0/quasar-1.51.0.31.909833124.20210302.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "8981"
+  },
+  "prestigio_smart_mate": {
+    "hasUpdate": true,
+    "version": "1.84.0.14.1079350230.20210920",
+    "downloadUrl": "https://quasar.s3.yandex.net/prestigio_smart_mate/ota/release/bbe91d19-0b56-402e-80a7-9840dd65801c/quasar-1.84.0.14.1079350230.20210920.zip",
+    "crc32": 3671443036,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/prestigio_smart_mate/ota/release/bbe91d19-0b56-402e-80a7-9840dd65801c/quasar-1.84.0.14.1079350230.20210920.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "12583"
+  },
+  "yandexmicro": {
+    "hasUpdate": true,
+    "version": "0.372.1.8.4790672876.20261019.300",
+    "downloadUrl": "https://cdnriqbxswemmatxzibl.svc.cdn.yandex.net/yandexmicro/ota/user/dbb517ff-eac2-4ba7-acb6-da7f21c3de80/0.372.1.8.4790672876.20261019.300.zip",
+    "crc32": 3616950701,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/yandexmicro/ota/user/dbb517ff-eac2-4ba7-acb6-da7f21c3de80/0.372.1.8.4790672876.20261019.300.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "154280"
+  },
+  "yandexmidi": {
+    "hasUpdate": true,
+    "version": "0.369.1.46.4793639783.20261020.295",
+    "downloadUrl": "https://cdnriqbxswemmatxzibl.svc.cdn.yandex.net/yandexmidi/ota/user/49d9c82b-1f52-4349-ae5b-076e59e51084/0.369.1.46.4793639783.20261020.295.zip",
+    "crc32": 335971040,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/yandexmidi/ota/user/49d9c82b-1f52-4349-ae5b-076e59e51084/0.369.1.46.4793639783.20261020.295.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "154287"
+  },
+  "yandexmini": {
+    "hasUpdate": true,
+    "version": "1.369.4.46.4793632185.20261020",
+    "downloadUrl": "https://cdnriqbxswemmatxzibl.svc.cdn.yandex.net/yandexmini/ota/release/91bd1dda-b696-47de-be3a-a02da0804b1d/1.369.4.46.4793632185.20261020.zip",
+    "crc32": 1878283424,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/yandexmini/ota/release/91bd1dda-b696-47de-be3a-a02da0804b1d/1.369.4.46.4793632185.20261020.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "154292"
+  },
+  "yandexmini_2": {
+    "hasUpdate": true,
+    "version": "0.369.1.46.4793643989.20261020.299",
+    "downloadUrl": "https://cdnriqbxswemmatxzibl.svc.cdn.yandex.net/yandexmini_2/ota/user/9967db97-165e-4d0a-9bc6-9e0f94f57e12/0.369.1.46.4793643989.20261020.299.zip",
+    "crc32": 3604090507,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/yandexmini_2/ota/user/9967db97-165e-4d0a-9bc6-9e0f94f57e12/0.369.1.46.4793643989.20261020.299.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "154294"
+  },
+  "yandexmodule": {
+    "hasUpdate": true,
+    "version": "1.3.2.18.840268003.20201207",
+    "downloadUrl": "https://quasar.s3.yandex.net/yandexmodule/ota/user/6acf4699-0538-4920-b770-a5efc97c01bf/quasar-1.3.2.18.840268003.20201207.zip",
+    "crc32": 1864078162,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/yandexmodule/ota/user/6acf4699-0538-4920-b770-a5efc97c01bf/quasar-1.3.2.18.840268003.20201207.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "7973"
+  },
+  "yandexstation": {
+    "hasUpdate": true,
+    "version": "2.369.5.46.4793643069.20261020.52",
+    "downloadUrl": "https://quasar.s3.yandex.net/yandexstation/ota/user/d2c1ac5c-bb19-4378-9d81-04721eb363e7/2.369.5.46.4793643069.20261020.52.zip",
+    "crc32": 3263669517,
+    "critical": true,
+    "fallbackUrl": "https://quasar.s3.yandex.net/yandexstation/ota/user/d2c1ac5c-bb19-4378-9d81-04721eb363e7/2.369.5.46.4793643069.20261020.52.zip",
+    "fallbackIp": "93.158.134.158",
+    "updateId": "154300"
+  },
+  "yandexstation_2": {
+    "hasUpdate": true,
+    "version": "1.149.1.35.1570445827.20221226.103",
+    "downloadUrl": "",
+    "crc32": -1,
+    "critical": true,
+    "fallbackUrl": "",
+    "fallbackIp": "",
+    "updateId": ""
+  }
+}

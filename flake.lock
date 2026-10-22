@@ -1,0 +1,44 @@
+{
+  "nodes": {
+    "certs": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1792514926,
+        "narHash": "sha256-RZc2R8FVAkQU5Ts5A9R7UiW3RiT3hvPetUT9omYiPc8=",
+        "owner": "Fluepke",
+        "repo": "emudrahahahahaha",
+        "rev": "c43b3f08ac8a2e27f57fa79c9530f3984034dc8b",
+        "type": "github"
+      },
+      "original": {
+        "owner": "Fluepke",
+        "repo": "emudrahahahahaha",
+        "type": "github"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1792502884,
+        "narHash": "sha256-IoNisKcGbUjdd45qCqywGMCYmZ5EnkxezvLII0FWwNA=",
+        "owner": "nixos",
+        "repo": "nixpkgs",
+        "rev": "02c087f3fe673c9e317f206a627cb6b910336dbe",
+        "type": "github"
+      },
+      "original": {
+        "owner": "nixos",
+        "ref": "nixos-unstable",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "certs": "certs",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
