@@ -47,10 +47,10 @@ app.get(
 app.get(
     "/check_updates",
     (c) => {
-        const platform = c.req.query("platform")
+        const platform = c.req.query("platform") ?? "yandexstation"
         const version = c.req.query("version")
 
-        if (platform && version) {
+        if (version) {
             const update = getAvailableUpdateFor(platform, version)
             if (update)
                 return c.json(update)
