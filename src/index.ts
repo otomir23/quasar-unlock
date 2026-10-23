@@ -62,7 +62,15 @@ app.get(
     },
 )
 
-const valid = ["quasar.yandex.net", "quasar.yandex.ru", "scbh.yandex.net"].flatMap(h => [h, `${h}:443`])
+const valid = [
+    "quasar.yandex.net",
+    "quasar.yandex.ru",
+    "scbh.yandex.net",
+    "quasar.yasmina.yango.com",
+    "scbh.yasmina.yango.com",
+    "quasar.yasmina.funtechservices.com",
+    "scbh.yasmina.funtechservices.com",
+].flatMap(h => [h, `${h}:443`])
 app.all(
     `*`,
     (c) => {

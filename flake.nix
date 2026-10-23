@@ -12,6 +12,10 @@
         "quasar.yandex.net"
         "quasar.yandex.ru"
         "scbh.yandex.net"
+        "quasar.yasmina.yango.com"
+        "scbh.yasmina.yango.com"
+        "quasar.yasmina.funtechservices.com"
+        "scbh.yasmina.funtechservices.com"
       ];
       cfg = config.services.quasar-unlock;
       package = pkgs.stdenv.mkDerivation (finalAttrs: let
