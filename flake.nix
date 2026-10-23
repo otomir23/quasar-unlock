@@ -146,6 +146,9 @@
             }
           '';
           virtualHosts."${lib.concatStringsSep ", " (map (domain: "${domain}, *.${domain}") domains)}" = {
+            logFormat = ''
+              output file ${config.services.caddy.logDir}/access-quasar-unlock.log
+            '';
             extraConfig = ''
               tls {
                 issuer internal {
